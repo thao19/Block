@@ -1,0 +1,411 @@
+
+playatlas.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+amazing_combo
+  rotate: false
+  xy: 701, 253
+  size: 677, 185
+  orig: 677, 185
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 766
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+bg_board
+  rotate: false
+  xy: 2, 19
+  size: 625, 46
+  orig: 625, 46
+  offset: 0, 0
+  index: -1
+bg_my_rank
+  rotate: false
+  xy: 1301, 1228
+  size: 575, 92
+  orig: 575, 92
+  offset: 0, 0
+  index: -1
+bg_rank
+  rotate: false
+  xy: 1400, 64
+  size: 442, 197
+  orig: 442, 197
+  offset: 0, 0
+  index: -1
+bg_scroll_rank
+  rotate: false
+  xy: 724, 1200
+  size: 575, 846
+  orig: 575, 846
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 2, 67
+  size: 697, 697
+  orig: 697, 697
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: false
+  xy: 701, 440
+  size: 697, 199
+  orig: 697, 199
+  offset: 0, 0
+  index: -1
+bravo_combo
+  rotate: false
+  xy: 1380, 263
+  size: 486, 145
+  orig: 486, 145
+  offset: 0, 0
+  index: -1
+btn_close
+  rotate: false
+  xy: 629, 2
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+btn_free
+  rotate: false
+  xy: 701, 29
+  size: 426, 86
+  orig: 426, 86
+  offset: 0, 0
+  index: -1
+btn_share_menu
+  rotate: false
+  xy: 1844, 137
+  size: 194, 124
+  orig: 194, 124
+  offset: 0, 0
+  index: -1
+btn_shop
+  rotate: false
+  xy: 1844, 11
+  size: 194, 124
+  orig: 194, 124
+  offset: 0, 0
+  index: -1
+btn_shop_buy
+  rotate: false
+  xy: 1811, 413
+  size: 139, 50
+  orig: 139, 50
+  offset: 0, 0
+  index: -1
+checkbox_off
+  rotate: false
+  xy: 1996, 1642
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+checkbox_on
+  rotate: false
+  xy: 1996, 1679
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+frame_shop
+  rotate: false
+  xy: 1301, 1322
+  size: 575, 724
+  orig: 575, 724
+  offset: 0, 0
+  index: -1
+hammer
+  rotate: false
+  xy: 1878, 1280
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1900, 1099
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+header
+  rotate: false
+  xy: 701, 117
+  size: 697, 134
+  orig: 697, 134
+  offset: 0, 0
+  index: -1
+highscore
+  rotate: false
+  xy: 1878, 1378
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+highscorelogo
+  rotate: false
+  xy: 724, 641
+  size: 615, 557
+  orig: 615, 557
+  offset: 0, 0
+  index: -1
+home_btn
+  rotate: false
+  xy: 1868, 295
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+icon_add_money
+  rotate: false
+  xy: 1341, 641
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+item_hammer
+  rotate: false
+  xy: 1931, 1716
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+item_rocket
+  rotate: false
+  xy: 1931, 1824
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 1400, 410
+  size: 409, 271
+  orig: 409, 271
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 1341, 683
+  size: 405, 324
+  orig: 405, 324
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 1748, 691
+  size: 281, 316
+  orig: 281, 316
+  offset: 0, 0
+  index: -1
+loading
+  rotate: false
+  xy: 1931, 1932
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+money_ui
+  rotate: false
+  xy: 1129, 51
+  size: 260, 64
+  orig: 260, 64
+  offset: 0, 0
+  index: -1
+pack_unlock
+  rotate: false
+  xy: 1811, 465
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+pausebtn
+  rotate: false
+  xy: 1900, 1188
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+rank_btn
+  rotate: false
+  xy: 1878, 1480
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+redbtn
+  rotate: false
+  xy: 1341, 1009
+  size: 557, 217
+  orig: 557, 217
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 1878, 1749
+  size: 51, 297
+  orig: 51, 297
+  offset: 0, 0
+  index: -1
+sound_on_btn
+  rotate: false
+  xy: 1878, 1598
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+tickbox_on
+  rotate: false
+  xy: 1993, 428
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+useBtn
+  rotate: false
+  xy: 1900, 1017
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+videoicon
+  rotate: false
+  xy: 1952, 424
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+
+playatlas2.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_bestscore
+  rotate: false
+  xy: 849, 860
+  size: 441, 127
+  orig: 441, 127
+  offset: 0, 0
+  index: -1
+bg_score
+  rotate: false
+  xy: 775, 594
+  size: 221, 99
+  orig: 221, 99
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 691, 465
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+block1
+  rotate: false
+  xy: 1887, 748
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btn_share
+  rotate: false
+  xy: 442, 700
+  size: 405, 112
+  orig: 405, 112
+  offset: 0, 0
+  index: -1
+btn_start
+  rotate: false
+  xy: 442, 814
+  size: 405, 173
+  orig: 405, 173
+  offset: 0, 0
+  index: -1
+continue_btn
+  rotate: false
+  xy: 1253, 689
+  size: 410, 148
+  orig: 410, 148
+  offset: 0, 0
+  index: -1
+cool_combo
+  rotate: false
+  xy: 370, 547
+  size: 403, 151
+  orig: 403, 151
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 2, 717
+  size: 438, 270
+  orig: 438, 270
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 2, 144
+  size: 294, 295
+  orig: 294, 295
+  offset: 0, 0
+  index: -1
+l5
+  rotate: false
+  xy: 1704, 830
+  size: 305, 157
+  orig: 305, 157
+  offset: 0, 0
+  index: -1
+l6
+  rotate: false
+  xy: 2, 441
+  size: 366, 274
+  orig: 366, 274
+  offset: 0, 0
+  index: -1
+l7
+  rotate: false
+  xy: 370, 448
+  size: 319, 97
+  orig: 319, 97
+  offset: 0, 0
+  index: -1
+l8
+  rotate: false
+  xy: 2, 2
+  size: 307, 140
+  orig: 307, 140
+  offset: 0, 0
+  index: -1
+nice_combo
+  rotate: false
+  xy: 849, 695
+  size: 402, 163
+  orig: 402, 163
+  offset: 0, 0
+  index: -1
+pack_lock
+  rotate: false
+  xy: 1665, 608
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+restart_btn
+  rotate: false
+  xy: 1292, 839
+  size: 410, 148
+  orig: 410, 148
+  offset: 0, 0
+  index: -1
